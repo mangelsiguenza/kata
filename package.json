@@ -1,0 +1,26 @@
+{
+  "name": "kata-1",
+  "version": "1.0.0",
+  "description": "Ejercicio kata",
+  "main": "ejercicio.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAng1805/kata-1.git"
+  },
+  "author": "Miguel Siguenza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelAng1805/kata-1/issues"
+  },
+  "homepage": "https://github.com/MiguelAng1805/kata-1#readme"
+}
